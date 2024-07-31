@@ -1,6 +1,6 @@
 # Marqo x Google Gemma 2 for RAG
 
-This is a small demo of a RAG Question and Answering System with [Google Gemma 2 2B](https://huggingface.co/collections/google/gemma-2-2b-release-66a20f3796a2ff2a7c76f98f) and [Marqo](https://marqo.ai/).
+This is a small demo of a Local RAG Question and Answering System with [Google Gemma 2 2B](https://huggingface.co/collections/google/gemma-2-2b-release-66a20f3796a2ff2a7c76f98f) and [Marqo](https://marqo.ai/).
 
 Article with full walkthrough (this is for Llama 3.1 but the same principles apply): https://marqo.ai/blog/marqo-llama-rag
 
