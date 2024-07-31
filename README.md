@@ -4,12 +4,11 @@ This is a small demo of a RAG Question and Answering System with [Google Gemma 2
 
 Article with full walkthrough (this is for Llama 3.1 but the same principles apply): https://marqo.ai/blog/marqo-llama-rag
 
-<p align="center">
+<!-- <p align="center">
     <a><img src="https://github.com/ellie-sleightholm/marqo-llama3_1/blob/main/assets/marqo_llama3_1_demo.gif"></a>
-</p>
+</p> -->
 
 ## Setup and Installation
-I have also written an article that walks through this project that I encourage you to read when getting started.
 
 ### Frontend
 
