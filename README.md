@@ -23,7 +23,7 @@ The frontend will look the same as in the video at the top of this README.
 ### Backend
 
 #### 1. Obtaining Google Gemma 2 2B Models
-To run this project locally, you will need to obtain the appropriate models. Download the model, `https://huggingface.co/google/gemma-2-2b-GGUF`, and place it into a new directory `backend/models/2B/`.
+To run this project locally, you will need to obtain the appropriate models. Download the model, `https://huggingface.co/google/gemma-2-2b-it-GGUF`, and place it into a new directory `backend/models/2B/`.
 
 #### 2. Install Dependencies
 Next, navigate to the backend directory, create a virtual environment, activate it, and install the required Python packages listed in the [requirements.txt](/backend/requirements.txt) file.
